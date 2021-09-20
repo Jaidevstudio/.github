@@ -1,4 +1,4 @@
-<h1 align="center">EddieHub</h1>
+<h1 align="center">JD Studio</h1>
 
 <p align="center">
 Most inclusive Open Source community on the Universe!

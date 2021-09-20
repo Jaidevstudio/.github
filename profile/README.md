@@ -1,7 +1,7 @@
 <h1 align="center">JD Studio</h1>
 
 <p align="center">
-Most inclusive Open Source community on the Universe!
+Most inclusive Open Source community in the Universe!
 </p>
 
 <h2 align="center">Collaboration 1st, Code 2nd! </h2>
